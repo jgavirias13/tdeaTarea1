@@ -1,0 +1,27 @@
+{
+  "name": "tdeatarea1",
+  "version": "1.0.0",
+  "description": "Tarea 1 de curso de fundamentos de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgavirias13/tdeaTarea1.git"
+  },
+  "keywords": [
+    "TDEA"
+  ],
+  "author": "Juan Pablo Gaviria Salazar <jgavirias13@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgavirias13/tdeaTarea1/issues"
+  },
+  "homepage": "https://github.com/jgavirias13/tdeaTarea1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "numeral": "^2.0.6",
+    "yargs": "^13.2.4"
+  }
+}
