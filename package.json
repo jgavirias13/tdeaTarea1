@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jgavirias13/tdeaTarea1#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "numeral": "^2.0.6",
     "yargs": "^13.2.4"
   }
